@@ -1,5 +1,6 @@
 """
-Second function
+Function taking a list of string as parameter
+And return a list of ascii code
 """
 
 

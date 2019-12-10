@@ -1,5 +1,6 @@
 """
-Third function
+Function taking a list of ascii code
+And returns a list of 8bits
 """
 
 

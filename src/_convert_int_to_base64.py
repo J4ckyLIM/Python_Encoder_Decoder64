@@ -1,5 +1,6 @@
 """
-Seventh function
+Function taking a list of int
+And return a list of base64 code
 """
 
 """

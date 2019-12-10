@@ -1,5 +1,6 @@
 """
-Nineth function
+Function taking a list as parameter
+And return a string from the concatenation of the list's element
 """
 
 
