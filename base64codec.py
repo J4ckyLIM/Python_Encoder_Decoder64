@@ -8,9 +8,9 @@ from src._convert_ascii_to_8bits import convert_ascii_to_8bits
 from src._convert_char_to_ascii import convert_char_to_ascii
 from src._convert_int_to_base64 import convert_int_to_base64
 from src._converts_list_to_string import convert_string_to_list
-from src._eight_bit_list_to_string import eight_bit_list_to_string
+from src._convert_eight_bit_list_to_string import eight_bit_list_to_string
 from src._final_conversion import converts_list_to_string
-from src.string_to_6_bit_list import string_to_six_bit_list
+from src._convert_string_to_6_bit_list import string_to_six_bit_list
 
 """Python decoder/encoder 64
 
