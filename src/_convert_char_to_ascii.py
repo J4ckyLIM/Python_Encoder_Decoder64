@@ -12,8 +12,5 @@ def convert_char_to_ascii(converted_list) -> list:
     char_converted_to_ascii = []
     for letter in converted_list:
         char_converted_to_ascii.append(ord(letter))
-    print(char_converted_to_ascii)
     return char_converted_to_ascii
 
-
-convert_char_to_ascii(["A", "B"])

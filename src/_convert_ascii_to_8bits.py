@@ -12,8 +12,5 @@ def convert_ascii_to_8bits(ascii_list) -> list:
     ascii_converted_to_8bits = []
     for ascii in ascii_list:
         ascii_converted_to_8bits.append(format(ascii, '08b'))
-    print(ascii_converted_to_8bits)
     return ascii_converted_to_8bits
 
-
-convert_ascii_to_8bits([65, 69])

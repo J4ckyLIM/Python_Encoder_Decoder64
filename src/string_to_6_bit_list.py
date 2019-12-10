@@ -19,4 +19,4 @@ def string_to_six_bit_list(string):
         str_app = str_pop + ("0" * dif)
         # And append the result into the list to have all entries 6 long
         six_bit_list.append(str_app)
-    print(six_bit_list)
+    return six_bit_list
