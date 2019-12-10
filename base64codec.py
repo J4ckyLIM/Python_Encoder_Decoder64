@@ -5,7 +5,6 @@ import sys
 """Python decoder/encoder 64
 
 """
-
 """
 Dictionary base64code
 """
