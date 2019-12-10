@@ -1,5 +1,6 @@
 """
-Sixth function
+Function taking a list of binaries
+And return a list of int
 """
 
 

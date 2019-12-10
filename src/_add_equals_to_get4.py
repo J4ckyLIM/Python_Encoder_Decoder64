@@ -1,5 +1,7 @@
 """
-Eighth function
+Function taking a list of base64 code
+And returns the same list if the list's length is a multiple of 4
+Or add "=" until the list's length is a multiple of 4
 """
 
 

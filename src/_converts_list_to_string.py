@@ -1,5 +1,6 @@
 """
-First function
+Function takes a string as parameter
+And return a list of string
 """
 
 
